@@ -7,9 +7,9 @@
 [![Python](https://a11ybadges.com/badge?logo=python)](https://www.python.org/)
 [![Terraform](https://a11ybadges.com/badge?logo=terraform)](https://www.terraform.io/)<br>
 [![12-Factor](https://img.shields.io/badge/12--Factor-Compliant-green.svg)](./doc/Twelve_Factor_Methodology.md)
-![Unit Tests](https://github.com/ahmedriaz12/aws-openai-fullstack/actions/workflows/testsPython.yml/badge.svg?branch=main)
-![GHA pushMain Status](https://img.shields.io/github/actions/workflow/status/ahmedriaz12/aws-openai-fullstack/pushMain.yml?branch=main)
-![Auto Assign](https://github.com/ahmedriaz12/aws-openai-fullstack/actions/workflows/auto-assign.yml/badge.svg)
+<!-- ![Unit Tests](https://github.com/ahmedriaz12/aws-openai-fullstack/actions/workflows/testsPython.yml/badge.svg?branch=main) -->
+<!-- ![GHA pushMain Status](https://img.shields.io/github/actions/workflow/status/ahmedriaz12/aws-openai-fullstack/pushMain.yml?branch=main) -->
+<!-- ![Auto Assign](https://github.com/ahmedriaz12/aws-openai-fullstack/actions/workflows/auto-assign.yml/badge.svg) -->
 [![Release Notes](https://img.shields.io/github/release/ahmedriaz12/aws-openai-fullstack)](https://github.com/ahmedriaz12/aws-openai-fullstack/releases)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![hack.d Lawrence McDaniel](https://img.shields.io/badge/hack.d-Lawrence%20McDaniel-orange.svg)](https://lawrencemcdaniel.com)
